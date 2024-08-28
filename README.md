@@ -26,14 +26,16 @@
 </picture>
 
 ### Spare Time Shenanigans
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/pin/?username=Free-Brick-Studio&repo=Bricxer&show_owner=true&theme=blue-green"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/pin/?username=Free-Brick-Studio&repo=Bricxer&show_owner=true&theme=catppuccin_latte"
-    media="(prefers-color-scheme: light)"
-  />
-  <img src="https://github.com/Free-Brick-Studio/Bricxer" />
-</picture>
+<a href="https://github.com/Free-Brick-Studio/Bricxer">
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/pin/?username=Free-Brick-Studio&repo=Bricxer&show_owner=true&theme=blue-green"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/pin/?username=Free-Brick-Studio&repo=Bricxer&show_owner=true&theme=catppuccin_latte"
+      media="(prefers-color-scheme: light)"
+    />
+    <img src="https://github.com/Free-Brick-Studio/Bricxer" />
+  </picture>
+</a>
